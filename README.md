@@ -1,1 +1,0 @@
-# Plant_diease_detection
